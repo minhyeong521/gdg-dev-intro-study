@@ -1,1 +1,1 @@
-# dev-intro-study
+# gdg-dev-intro-study
