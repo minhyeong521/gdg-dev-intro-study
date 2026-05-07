@@ -3,10 +3,9 @@
     color: white;
     background-color: rgb(0,0,255); 
     
-    padding: 10px 30px;       /* 좌우를 더 길게 주어 버튼 모양으로 */
+    padding: 10px 30px;       
     margin: 15px;
     
     border: 4px purple; 
-    border-radius: 50px;      /* 완전히 둥근 모서리 */
-    box-shadow: 3px 3px 10px rgba(0,0,0,0.1); /* 은은한 그림자 */
+    border-radius: 50px; 
 }
