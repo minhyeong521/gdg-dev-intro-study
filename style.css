@@ -1,11 +1,11 @@
 .zzang {
     display: inline-block;    /* 글자 크기만큼만 배경색이 칠해지도록 변경 */
     color: white;
-    background-color: rgb(0,0,255); 
+    background-color: red ;
     
     padding: 10px 30px;       
     margin: 15px;
     
-    border: 5px solid yellow; 
+    border: 5px solid green; 
     border-radius: 50px; 
 }
