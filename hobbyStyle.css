@@ -1,0 +1,11 @@
+.hobby {
+    display: inline-block;    /* 글자 크기만큼만 배경색이 칠해지도록 변경 */
+    color: white;
+    background-color: purple ;
+    
+    padding: 7px 15px;       
+    margin: 8px;
+    
+    border: 3px solid orange; 
+    border-radius: 50px; 
+}
