@@ -1,5 +1,5 @@
 .zzang {
-    display: inline-block;    /* 글자 크기만큼만 배경색이 칠해지도록 변경 */
+    display: inline-block; /* 글자 크기만큼만 배경색이 칠해지도록 변경 */
     color: white;
     background-color: red ;
     
