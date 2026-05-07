@@ -1,0 +1,11 @@
+.familyStyle {
+    display: flex;
+    color: white;
+    background-color: yellow;
+
+    padding: 10px 20px;       
+    margin: 13px;
+    
+    border: 4px solid blue; 
+    border-radius: 50px; 
+}
